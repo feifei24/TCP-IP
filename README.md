@@ -5,10 +5,10 @@ Basic knowledge of TCP/IP
 
 How to use TCP/IP?<br>
   1. Using TCP/IP to fix internet connection problem.<br>
-    For example, Internet wire is connect, network adapter card is good, but there is no Internet.<br>
+    For example, Internet wire is connect, network adapter card is plug-in, but there is no Internet.<br>
       Using ping to approximate the problem area.<br>
         <OL Type = "A">
         <LI>Ping 127.0.0.1, if fail, it mean that local network TCP/IP is not working properly, please reinstall TCP/IP and try             it again.
-        <LI>Ping personal IP address, if fail, it mean that network adapter card is not correct.
-        <LI>Ping the local area network other computer IP address or Internet IP adress. If fail, it mean that wire is not                  connect. If success, but internet still not working, it mean that problem could cause by the internet software.
+        <LI>Ping computer IP address, if fail, it mean that network adapter card is not correct.
+        <LI>Ping the Internet IP adress. If fail, it mean that the internet connection is not connected. If success, but                    internet still not working, it mean that problem could cause by the internet software.
         </OL>
